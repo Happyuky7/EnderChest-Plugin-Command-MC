@@ -4,7 +4,7 @@ EnderChest-Plugin-Command-MC
 Open source EnderChest command plugin to be editable your way.
 
 ### Information:
-Versions Minecraft: 1.8.X, 1.9.X, 1.10.X, 1.11.X, 1.12.X, 1.13.X, 1.14.X, 1.15.X, 1.16.X, 1.17.X, 1.18.X, 1.19.X, 1.20
+Versions Minecraft: 1.8.X, 1.9.X, 1.10.X, 1.11.X, 1.12.X, 1.13.X, 1.14.X, 1.15.X, 1.16.X, 1.17.X, 1.18.X, 1.19.X, 1.20.X
 
 Plugin Version: 1.0.2
 
@@ -14,7 +14,7 @@ JARS: Spigot, Paper, Purpur.
 
 ## Download
 
-[Donwload 1.0.2 / Minecraft Version Support 1.8.8 - 1.20 ](https://github.com/HappyRogelio7/EnderChest-Plugin-Command-MC/blob/master/Downloads/1.0.2/EnderChest-1.0.2.jarr)
+[Donwload 1.0.2 / Minecraft Version Support 1.8.8 - 1.20 ](https://github.com/Happyuky7/EnderChest-Plugin-Command-MC/blob/master/Downloads/1.0.2/EnderChest-1.0.2.jarr)
 
 
 ---
@@ -25,7 +25,7 @@ To compile EnderChest-Plugin-Command-MC, you need JDK17, git, bash, maven.
 
 Clone the repository with the following command:
 ```bash
-$ git clone https://github.com/HappyRogelio7/EnderChest-Plugin-Command-MC.git
+$ git clone https://github.com/Happyuky7/EnderChest-Plugin-Command-MC.git
 ```
 
 Once downloaded in the git terminal use the following command:
